@@ -276,6 +276,21 @@
       "date": "2019-09-03T13:05:00.000Z",
       "time": "5:00",
       "attendees": []
+    },
+    {
+      "id": 560592,
+      "user": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "category": "housing",
+      "organizer": "",
+      "title": "Take a house",
+      "description": "Take a house",
+      "location": "House",
+      "date": "2019-09-11T10:47:00.000Z",
+      "time": "9:00",
+      "attendees": []
     }
   ]
 }
