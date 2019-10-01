@@ -291,6 +291,21 @@
       "date": "2019-09-11T10:47:00.000Z",
       "time": "9:00",
       "attendees": []
+    },
+    {
+      "id": 413227,
+      "user": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "category": "sustainability",
+      "organizer": "",
+      "title": "Responsibility",
+      "description": "Responsibility",
+      "location": "Responsibility",
+      "date": "2019-10-03T08:25:00.000Z",
+      "time": "7:00",
+      "attendees": []
     }
   ]
 }
